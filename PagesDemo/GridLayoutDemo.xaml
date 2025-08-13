@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LayoutDemo.GridLayoutDemo"
+             Title="GridLayoutDemo">
+    <Grid RowDefinitions=".4*,.6*" ColumnDefinitions="*,*">
+        <!-- <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions> -->
+        <Button Text="AbsoluteLayout" Grid.Row="0" Grid.Column="0" Clicked="Absolute_Clicked"/>
+        <Button Text="AbsoluteLayout" Grid.Row="1" Grid.Column="1" Clicked="Absolute_Clicked"/>
+    </Grid>
+</ContentPage>

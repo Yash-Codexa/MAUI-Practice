@@ -1,0 +1,139 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PagesDemo
+build_property.ProjectDir = /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsoluteLayoutDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/ActivityControllerDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ActivityControllerDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ActivityControllerDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ActivityControllerDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/CommandInitiaterControllsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.CommandInitiaterControllsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = CommandInitiaterControllsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = CommandInitiaterControllsDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/ContentPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ContentPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ContentPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ContentPageDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DisplayControllerDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DisplayControllerDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = DisplayControllerDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = DisplayControllerDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/EditTextDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.EditTextDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = EditTextDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = EditTextDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/FlexLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayoutDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/FlyoutPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FlyoutPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FlyoutPageDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/GridLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = GridLayoutDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/HorizontalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = HorizontalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = HorizontalStackLayoutDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/PresentationControlsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = PresentationControlsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = PresentationControlsDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = StackLayoutDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/TabbedPageDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = TabbedPageDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = TabbedPageDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/ValueControllerDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ValueControllerDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ValueControllerDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ValueControllerDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/VerticalStackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = VerticalStackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = VerticalStackLayoutDemo.xaml

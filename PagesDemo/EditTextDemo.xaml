@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlsDemo.EditTextDemo"
+             Title="EditTextDemo">
+    <StackLayout Spacing="10">
+        <Entry 
+            x:Name="txtName"
+            Placeholder="Enter your Name"
+            PlaceholderColor="black"
+            IsPassword="False"
+            Keyboard="Telephone"
+            TextChanged="Entry_TextChanged"
+            Completed="Entry_TextCompleted"
+            >
+
+        </Entry>
+        <Editor AutoSize="TextChanges"/>
+        <Button Text="ActivityIndicator" Clicked="ActivityIndicator_Clicked"/>
+    </StackLayout>
+</ContentPage>
