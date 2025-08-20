@@ -56,6 +56,14 @@
         "net9.0-android35.0": {
           "targetAlias": "net9.0-android",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "DotNetMeteor.HotReload.Plugin": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.5, )"
@@ -95,6 +103,14 @@
         "net9.0-ios18.5": {
           "targetAlias": "net9.0-ios",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "DotNetMeteor.HotReload.Plugin": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.5, )"
@@ -134,6 +150,14 @@
         "net9.0-maccatalyst18.5": {
           "targetAlias": "net9.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "DotNetMeteor.HotReload.Plugin": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[9.0.5, )"

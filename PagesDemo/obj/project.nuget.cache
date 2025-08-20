@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "heYlCrDElmg=",
+  "dgSpecHash": "xWAVbJZ6qn0=",
   "success": true,
   "projectFilePath": "/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/PagesDemo.csproj",
   "expectedPackageFiles": [
+    "/Users/swetadarshanaadatiya/.nuget/packages/communitytoolkit.maui/12.1.0/communitytoolkit.maui.12.1.0.nupkg.sha512",
+    "/Users/swetadarshanaadatiya/.nuget/packages/communitytoolkit.maui.core/12.1.0/communitytoolkit.maui.core.12.1.0.nupkg.sha512",
+    "/Users/swetadarshanaadatiya/.nuget/packages/dotnetmeteor.hotreload.plugin/3.3.0/dotnetmeteor.hotreload.plugin.3.3.0.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/googlegson/2.13.0.1/googlegson.2.13.0.1.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/microsoft.extensions.configuration/9.0.5/microsoft.extensions.configuration.9.0.5.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.5/microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",

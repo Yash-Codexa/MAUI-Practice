@@ -129,7 +129,7 @@
         </Picker>
     </StackLayout> -->
 
-    <TableView Intent="Settings"> 
+    <!-- <TableView Intent="Settings"> 
         <TableRoot>
             <TableSection Title="First Section">
                 <TextCell Detail="TextCell Detail" Text="TextCell" />
@@ -143,6 +143,10 @@
                 <ImageCell Detail="ImageCell Detail" ImageSource="dotnet_bot.png" Text="ImageCell Text" />
                 <SwitchCell Text="SwitchCellText"/> 
             </TableSection>
+            
         </TableRoot>
-    </TableView>
+        
+    </TableView> -->
+    <Button Text="ColorMaker" Clicked="ColorMaker_Clicked"/>
+
 </ContentPage>

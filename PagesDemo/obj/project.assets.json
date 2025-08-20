@@ -2,6 +2,53 @@
   "version": 3,
   "targets": {
     "net9.0-android35.0": {
+      "CommunityToolkit.Maui/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "12.1.0",
+          "Microsoft.Maui.Controls": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Core": "[9.0.80, 10.0.0)",
+          "Microsoft.Maui.Essentials": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DotNetMeteor.HotReload.Plugin/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "GoogleGson/2.13.0.1": {
         "type": "package",
         "dependencies": {
@@ -2296,6 +2343,53 @@
       }
     },
     "net9.0-android35.0/iossimulator-arm64": {
+      "CommunityToolkit.Maui/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "12.1.0",
+          "Microsoft.Maui.Controls": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Core": "[9.0.80, 10.0.0)",
+          "Microsoft.Maui.Essentials": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-android35.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DotNetMeteor.HotReload.Plugin/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "GoogleGson/2.13.0.1": {
         "type": "package",
         "dependencies": {
@@ -4590,6 +4684,53 @@
       }
     },
     "net9.0-ios18.5": {
+      "CommunityToolkit.Maui/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "12.1.0",
+          "Microsoft.Maui.Controls": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Core": "[9.0.80, 10.0.0)",
+          "Microsoft.Maui.Essentials": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DotNetMeteor.HotReload.Plugin/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -4992,6 +5133,53 @@
       }
     },
     "net9.0-ios18.5/iossimulator-arm64": {
+      "CommunityToolkit.Maui/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "12.1.0",
+          "Microsoft.Maui.Controls": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Core": "[9.0.80, 10.0.0)",
+          "Microsoft.Maui.Essentials": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-ios18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DotNetMeteor.HotReload.Plugin/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -5394,6 +5582,53 @@
       }
     },
     "net9.0-maccatalyst18.5": {
+      "CommunityToolkit.Maui/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "12.1.0",
+          "Microsoft.Maui.Controls": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Core": "[9.0.80, 10.0.0)",
+          "Microsoft.Maui.Essentials": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DotNetMeteor.HotReload.Plugin/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -5796,6 +6031,53 @@
       }
     },
     "net9.0-maccatalyst18.5/iossimulator-arm64": {
+      "CommunityToolkit.Maui/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Maui.Core": "12.1.0",
+          "Microsoft.Maui.Controls": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CommunityToolkit.Maui.Core/12.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Maui.Core": "[9.0.80, 10.0.0)",
+          "Microsoft.Maui.Essentials": "[9.0.80, 10.0.0)"
+        },
+        "compile": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "DotNetMeteor.HotReload.Plugin/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -6199,6 +6481,73 @@
     }
   },
   "libraries": {
+    "CommunityToolkit.Maui/12.1.0": {
+      "sha512": "aFHT0CYO/Op4Nyd9w8TWkaVixFWRiBxlC5VMxly2OL1hN1+2PrEWak8GIQ4zdJeBTPUGIYpKHBEoSLYwmGqUng==",
+      "type": "package",
+      "path": "communitytoolkit.maui/12.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ReadMe.txt",
+        "analyzers/dotnet/cs/CommunityToolkit.Maui.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/CommunityToolkit.Maui.Analyzers.dll",
+        "analyzers/dotnet/cs/CommunityToolkit.Maui.SourceGenerators.dll",
+        "communitytoolkit.maui.12.1.0.nupkg.sha512",
+        "communitytoolkit.maui.nuspec",
+        "icon.png",
+        "lib/net9.0-android35.0/CommunityToolkit.Maui.dll",
+        "lib/net9.0-android35.0/CommunityToolkit.Maui.xml",
+        "lib/net9.0-ios18.0/CommunityToolkit.Maui.dll",
+        "lib/net9.0-ios18.0/CommunityToolkit.Maui.xml",
+        "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.dll",
+        "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.xml",
+        "lib/net9.0-tizen10.0/CommunityToolkit.Maui.dll",
+        "lib/net9.0-tizen10.0/CommunityToolkit.Maui.xml",
+        "lib/net9.0-windows10.0.19041/CommunityToolkit.Maui.dll",
+        "lib/net9.0-windows10.0.19041/CommunityToolkit.Maui.xml",
+        "lib/net9.0/CommunityToolkit.Maui.dll",
+        "lib/net9.0/CommunityToolkit.Maui.xml"
+      ]
+    },
+    "CommunityToolkit.Maui.Core/12.1.0": {
+      "sha512": "CTA1/KySVdtPyq0IWW9WB+IwmOpua88xCaZKD94SYC9FIZUghJ4+e3nGjCmFD/3V9uudjJwbYAVqPSBBHYIXgg==",
+      "type": "package",
+      "path": "communitytoolkit.maui.core/12.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ReadMe.txt",
+        "communitytoolkit.maui.core.12.1.0.nupkg.sha512",
+        "communitytoolkit.maui.core.nuspec",
+        "icon.png",
+        "lib/net9.0-android35.0/CommunityToolkit.Maui.Core.dll",
+        "lib/net9.0-android35.0/CommunityToolkit.Maui.Core.xml",
+        "lib/net9.0-ios18.0/CommunityToolkit.Maui.Core.dll",
+        "lib/net9.0-ios18.0/CommunityToolkit.Maui.Core.xml",
+        "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.Core.dll",
+        "lib/net9.0-maccatalyst18.0/CommunityToolkit.Maui.Core.xml",
+        "lib/net9.0-tizen10.0/CommunityToolkit.Maui.Core.dll",
+        "lib/net9.0-tizen10.0/CommunityToolkit.Maui.Core.xml",
+        "lib/net9.0-windows10.0.19041/CommunityToolkit.Maui.Core.dll",
+        "lib/net9.0-windows10.0.19041/CommunityToolkit.Maui.Core.xml",
+        "lib/net9.0/CommunityToolkit.Maui.Core.dll",
+        "lib/net9.0/CommunityToolkit.Maui.Core.xml"
+      ]
+    },
+    "DotNetMeteor.HotReload.Plugin/3.3.0": {
+      "sha512": "Uj4RwjzhDb3BNGJHTEEtqQjYzjXyXZAef16gMy6+PZE2O9ngddOWYu7TKS/eJTvaJJarzKOufN00vvLbCihcwg==",
+      "type": "package",
+      "path": "dotnetmeteor.hotreload.plugin/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetmeteor.hotreload.plugin.3.3.0.nupkg.sha512",
+        "dotnetmeteor.hotreload.plugin.nuspec",
+        "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll",
+        "lib/net6.0/DotNet.Meteor.HotReload.Plugin.pdb",
+        "logo.png"
+      ]
+    },
     "GoogleGson/2.13.0.1": {
       "sha512": "7dxQ5gnwWrezEUrtpUvDWTOOT0ymn7uejtbceF6djAtdBaqrxbzna6r8eGxQe2T4M09Ozpuz4P0LiV8/jgLBQQ==",
       "type": "package",
@@ -9177,16 +9526,22 @@
   },
   "projectFileDependencyGroups": {
     "net9.0-android35.0": [
+      "CommunityToolkit.Maui >= 12.1.0",
+      "DotNetMeteor.HotReload.Plugin >= 3.3.0",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.82",
       "Microsoft.NET.ILLink.Tasks >= 9.0.8"
     ],
     "net9.0-ios18.5": [
+      "CommunityToolkit.Maui >= 12.1.0",
+      "DotNetMeteor.HotReload.Plugin >= 3.3.0",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.82",
       "Microsoft.NET.ILLink.Tasks >= 9.0.8"
     ],
     "net9.0-maccatalyst18.5": [
+      "CommunityToolkit.Maui >= 12.1.0",
+      "DotNetMeteor.HotReload.Plugin >= 3.3.0",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.82",
       "Microsoft.NET.ILLink.Tasks >= 9.0.8"
@@ -9247,6 +9602,14 @@
       "net9.0-android35.0": {
         "targetAlias": "net9.0-android",
         "dependencies": {
+          "CommunityToolkit.Maui": {
+            "target": "Package",
+            "version": "[12.1.0, )"
+          },
+          "DotNetMeteor.HotReload.Plugin": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.5, )"
@@ -9286,6 +9649,14 @@
       "net9.0-ios18.5": {
         "targetAlias": "net9.0-ios",
         "dependencies": {
+          "CommunityToolkit.Maui": {
+            "target": "Package",
+            "version": "[12.1.0, )"
+          },
+          "DotNetMeteor.HotReload.Plugin": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.5, )"
@@ -9325,6 +9696,14 @@
       "net9.0-maccatalyst18.5": {
         "targetAlias": "net9.0-maccatalyst",
         "dependencies": {
+          "CommunityToolkit.Maui": {
+            "target": "Package",
+            "version": "[12.1.0, )"
+          },
+          "DotNetMeteor.HotReload.Plugin": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.5, )"

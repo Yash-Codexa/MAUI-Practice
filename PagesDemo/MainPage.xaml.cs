@@ -1,4 +1,6 @@
-﻿namespace PagesDemo;
+﻿using PagesDemo.Views;
+
+namespace PagesDemo;
 
 public partial class MainPage : ContentPage
 {
@@ -10,6 +12,6 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object? sender, EventArgs e)
 	{
-		Navigation.PushAsync(new ContentPageDemo());
+		Navigation.PushAsync(new HangMan_Home());
 	}
 }

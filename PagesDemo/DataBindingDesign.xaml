@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.DataBindingDesign"
+             xmlns:Models="clr-namespace:PagesDemo.Models"
+             Title="DataBindingDesign">
+
+    <ContentPage.Resources>
+        <Models:Persons x:Key="persons"
+            Name="ShwetaAAA"
+            Address="Some Address"
+            Phone="2344234" />
+    </ContentPage.Resources>
+
+    <StackLayout Spacing="25" Margin="0,40,0,0">
+        <Label x:Name="txtName"
+            HorizontalOptions="Center"
+            Text="{Binding Name,Source={StaticResource persons}}"
+            FontSize="50"
+            VerticalOptions="Center"    
+        />
+        <Button Text="Binding Data" />
+        <Button Text="Binding Context" Clicked="BindingContext_Clicked"/>
+    </StackLayout>
+</ContentPage>

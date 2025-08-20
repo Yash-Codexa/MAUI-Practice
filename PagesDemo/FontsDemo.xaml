@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.FontsDemo"
+             Title="FontsDemo">
+    <StackLayout BackgroundColor="Black" Spacing="40">
+        <Label 
+            Margin="0,30,0,0"
+            Text="This are Custom Fonts"
+            FontFamily="CustomFont"
+            FontSize="50"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            TextColor="White"
+            />
+
+            <Label 
+            Text="This are usual Fonts"
+            FontSize="50"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            TextColor="White"
+            />
+
+            <Button HeightRequest="25" Text="FontIcons" Clicked="FontIcons_Clicked" />
+
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.Views.BindingContext"
+             Title="BindingContext">
+    <StackLayout Spacing="25" Margin="0,40,0,0">
+        <Label x:Name="txtName"
+            HorizontalOptions="Center"
+            Text="{Binding Name}"
+            FontSize="50"
+            VerticalOptions="Center"    
+        />
+        <Label x:Name="txtPhone"
+            HorizontalOptions="Center"
+            Text="{Binding Phone}"
+            FontSize="50"
+            VerticalOptions="Center"    
+        />
+        <Label x:Name="txtAddress"
+            HorizontalOptions="Center"
+            Text="{Binding Address}"
+            FontSize="50"
+            VerticalOptions="Center"    
+        />
+        <Button Text="Binding Data" Clicked="btn_Clicked"/>
+        <Button Text="Binding Controls" Clicked="BindingControls_Clicked"/>
+        
+    </StackLayout>
+</ContentPage>

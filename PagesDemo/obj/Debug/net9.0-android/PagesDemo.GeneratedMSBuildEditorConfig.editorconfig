@@ -42,6 +42,24 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/BindingDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.BindingDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = BindingDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = BindingDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/CodeQuoates_Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.CodeQuoates_Home.xaml
+build_metadata.AdditionalFiles.TargetPath = CodeQuoates_Home.xaml
+build_metadata.AdditionalFiles.RelativePath = CodeQuoates_Home.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/ColorMaker_Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ColorMaker_Home.xaml
+build_metadata.AdditionalFiles.TargetPath = ColorMaker_Home.xaml
+build_metadata.AdditionalFiles.RelativePath = ColorMaker_Home.xaml
+
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/CommandInitiaterControllsDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.CommandInitiaterControllsDemo.xaml
@@ -53,6 +71,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ContentPageDemo.xaml
 build_metadata.AdditionalFiles.TargetPath = ContentPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = ContentPageDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DataBindingDesign.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DataBindingDesign.xaml
+build_metadata.AdditionalFiles.TargetPath = DataBindingDesign.xaml
+build_metadata.AdditionalFiles.RelativePath = DataBindingDesign.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DisplayControllerDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -66,6 +90,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.EditTextDemo.xam
 build_metadata.AdditionalFiles.TargetPath = EditTextDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = EditTextDemo.xaml
 
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/FilesDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FilesDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FilesDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FilesDemo.xaml
+
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/FlexLayoutDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FlexLayoutDemo.xaml
@@ -77,6 +107,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FlyoutPageDemo.xaml
 build_metadata.AdditionalFiles.TargetPath = FlyoutPageDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = FlyoutPageDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/FontIconsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FontIconsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FontIconsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FontIconsDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/FontsDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.FontsDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = FontsDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = FontsDemo.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/GridLayoutDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -90,11 +132,23 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.HorizontalStackL
 build_metadata.AdditionalFiles.TargetPath = HorizontalStackLayoutDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = HorizontalStackLayoutDemo.xaml
 
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/ImagesDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.ImagesDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = ImagesDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = ImagesDemo.xaml
+
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/PerfectPay_Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.PerfectPay_Home.xaml
+build_metadata.AdditionalFiles.TargetPath = PerfectPay_Home.xaml
+build_metadata.AdditionalFiles.RelativePath = PerfectPay_Home.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/PresentationControlsDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -137,3 +191,33 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.VerticalStackLayoutDemo.xaml
 build_metadata.AdditionalFiles.TargetPath = VerticalStackLayoutDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = VerticalStackLayoutDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/BindingContext.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.BindingContext.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/BindingContext.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/BindingContext.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/BindingControls.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.BindingControls.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/BindingControls.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/BindingControls.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/BindingModes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.BindingModes.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/BindingModes.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/BindingModes.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/ChangeNotifyDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.ChangeNotifyDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ChangeNotifyDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ChangeNotifyDemo.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/HangMan_Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.HangMan_Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/HangMan_Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/HangMan_Home.xaml
