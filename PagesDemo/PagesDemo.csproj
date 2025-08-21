@@ -62,8 +62,14 @@
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Maui" Version="12.1.0" />
 		<PackageReference Include="DotNetMeteor.HotReload.Plugin" Version="3.3.0" />
+		<PackageReference Include="Fody" Version="6.9.3">
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		  <PrivateAssets>all</PrivateAssets>
+		</PackageReference>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.5" />
+		<PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+
 	</ItemGroup>
 
 </Project>

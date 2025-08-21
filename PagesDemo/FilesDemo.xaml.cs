@@ -1,4 +1,5 @@
 using System.Text.Json;
+using PagesDemo.Models;
 
 namespace PagesDemo;
 
@@ -29,8 +30,8 @@ public partial class FilesDemo : ContentPage
     }
 }
 
-public class Person
-{
-	public String? Name { get; set; }
-	public int Age { get; set; }
-}
+// public class Person
+// {
+// 	public String? Name { get; set; }
+// 	public int Age { get; set; }
+// }

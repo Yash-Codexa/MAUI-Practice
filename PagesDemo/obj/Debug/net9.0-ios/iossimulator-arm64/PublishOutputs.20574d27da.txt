@@ -1,3 +1,4 @@
+/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/PropertyChanged.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/ar/Microsoft.Maui.Controls.resources.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/ca/Microsoft.Maui.Controls.resources.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/cs/Microsoft.Maui.Controls.resources.dll

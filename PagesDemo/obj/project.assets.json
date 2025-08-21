@@ -49,6 +49,12 @@
           }
         }
       },
+      "Fody/6.9.3": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
       "GoogleGson/2.13.0.1": {
         "type": "package",
         "dependencies": {
@@ -474,6 +480,25 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "PropertyChanged.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.6.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/PropertyChanged.Fody.props": {}
         }
       },
       "Xamarin.Android.Glide/4.16.0.12": {
@@ -2390,6 +2415,12 @@
           }
         }
       },
+      "Fody/6.9.3": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
       "GoogleGson/2.13.0.1": {
         "type": "package",
         "dependencies": {
@@ -2815,6 +2846,25 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "PropertyChanged.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.6.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/PropertyChanged.Fody.props": {}
         }
       },
       "Xamarin.Android.Glide/4.16.0.12": {
@@ -4731,6 +4781,12 @@
           }
         }
       },
+      "Fody/6.9.3": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -5129,6 +5185,25 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "PropertyChanged.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.6.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/PropertyChanged.Fody.props": {}
         }
       }
     },
@@ -5180,6 +5255,12 @@
           }
         }
       },
+      "Fody/6.9.3": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -5579,6 +5660,25 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "PropertyChanged.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.6.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/PropertyChanged.Fody.props": {}
+        }
       }
     },
     "net9.0-maccatalyst18.5": {
@@ -5627,6 +5727,12 @@
           "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll": {
             "related": ".pdb"
           }
+        }
+      },
+      "Fody/6.9.3": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/9.0.5": {
@@ -6027,6 +6133,25 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "PropertyChanged.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.6.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/PropertyChanged.Fody.props": {}
         }
       }
     },
@@ -6078,6 +6203,12 @@
           }
         }
       },
+      "Fody/6.9.3": {
+        "type": "package",
+        "build": {
+          "build/Fody.targets": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/9.0.5": {
         "type": "package",
         "dependencies": {
@@ -6476,6 +6607,25 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "PropertyChanged.Fody/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Fody": "6.6.4"
+        },
+        "compile": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/PropertyChanged.Fody.props": {}
         }
       }
     }
@@ -6546,6 +6696,42 @@
         "lib/net6.0/DotNet.Meteor.HotReload.Plugin.dll",
         "lib/net6.0/DotNet.Meteor.HotReload.Plugin.pdb",
         "logo.png"
+      ]
+    },
+    "Fody/6.9.3": {
+      "sha512": "1CUGgFdyECDKgi5HaUBhdv6k+VG9Iy4OCforGfHyar3xQXAJypZkzymgKtWj/4SPd6nSG0Qi7NH71qHrDSZLaA==",
+      "type": "package",
+      "path": "fody/6.9.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Fody.targets",
+        "fody.6.9.3.nupkg.sha512",
+        "fody.nuspec",
+        "package_icon.png",
+        "package_readme.md",
+        "tasks/net472/FodyCommon.dll",
+        "tasks/net472/FodyHelpers.dll",
+        "tasks/net472/FodyHelpers.xml",
+        "tasks/net472/FodyIsolated.dll",
+        "tasks/net472/FodyTasks.dll",
+        "tasks/net472/Mono.Cecil.Pdb.dll",
+        "tasks/net472/Mono.Cecil.Pdb.pdb",
+        "tasks/net472/Mono.Cecil.Rocks.dll",
+        "tasks/net472/Mono.Cecil.Rocks.pdb",
+        "tasks/net472/Mono.Cecil.dll",
+        "tasks/net472/Mono.Cecil.pdb",
+        "tasks/netstandard2.0/FodyCommon.dll",
+        "tasks/netstandard2.0/FodyHelpers.dll",
+        "tasks/netstandard2.0/FodyHelpers.xml",
+        "tasks/netstandard2.0/FodyIsolated.dll",
+        "tasks/netstandard2.0/FodyTasks.dll",
+        "tasks/netstandard2.0/Mono.Cecil.Pdb.dll",
+        "tasks/netstandard2.0/Mono.Cecil.Pdb.pdb",
+        "tasks/netstandard2.0/Mono.Cecil.Rocks.dll",
+        "tasks/netstandard2.0/Mono.Cecil.Rocks.pdb",
+        "tasks/netstandard2.0/Mono.Cecil.dll",
+        "tasks/netstandard2.0/Mono.Cecil.pdb"
       ]
     },
     "GoogleGson/2.13.0.1": {
@@ -7665,6 +7851,27 @@
         "tools/net9.0/illink.dll",
         "tools/net9.0/illink.runtimeconfig.json",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "PropertyChanged.Fody/4.1.0": {
+      "sha512": "6v+f9cI8YjnZH2WBHuOqWEAo8DFFNGFIdU8xD3AsL6fhV6Y8oAmVWd7XKk49t8DpeUBwhR/X+97+6Epvek0Y3A==",
+      "type": "package",
+      "path": "propertychanged.fody/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/PropertyChanged.Fody.Analyzer.dll",
+        "build/PropertyChanged.Fody.props",
+        "lib/net40/PropertyChanged.dll",
+        "lib/net40/PropertyChanged.xml",
+        "lib/netstandard2.0/PropertyChanged.dll",
+        "lib/netstandard2.0/PropertyChanged.xml",
+        "lib/netstandard2.1/PropertyChanged.dll",
+        "lib/netstandard2.1/PropertyChanged.xml",
+        "propertychanged.fody.4.1.0.nupkg.sha512",
+        "propertychanged.fody.nuspec",
+        "weaver/PropertyChanged.Fody.dll",
+        "weaver/PropertyChanged.Fody.xcf"
       ]
     },
     "Xamarin.Android.Glide/4.16.0.12": {
@@ -9528,23 +9735,29 @@
     "net9.0-android35.0": [
       "CommunityToolkit.Maui >= 12.1.0",
       "DotNetMeteor.HotReload.Plugin >= 3.3.0",
+      "Fody >= 6.9.3",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.82",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.8"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.8",
+      "PropertyChanged.Fody >= 4.1.0"
     ],
     "net9.0-ios18.5": [
       "CommunityToolkit.Maui >= 12.1.0",
       "DotNetMeteor.HotReload.Plugin >= 3.3.0",
+      "Fody >= 6.9.3",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.82",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.8"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.8",
+      "PropertyChanged.Fody >= 4.1.0"
     ],
     "net9.0-maccatalyst18.5": [
       "CommunityToolkit.Maui >= 12.1.0",
       "DotNetMeteor.HotReload.Plugin >= 3.3.0",
+      "Fody >= 6.9.3",
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.82",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.8"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.8",
+      "PropertyChanged.Fody >= 4.1.0"
     ]
   },
   "packageFolders": {
@@ -9610,6 +9823,12 @@
             "target": "Package",
             "version": "[3.3.0, )"
           },
+          "Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.9.3, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.5, )"
@@ -9623,6 +9842,10 @@
             "target": "Package",
             "version": "[9.0.8, )",
             "autoReferenced": true
+          },
+          "PropertyChanged.Fody": {
+            "target": "Package",
+            "version": "[4.1.0, )"
           }
         },
         "imports": [
@@ -9657,6 +9880,12 @@
             "target": "Package",
             "version": "[3.3.0, )"
           },
+          "Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.9.3, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.5, )"
@@ -9670,6 +9899,10 @@
             "target": "Package",
             "version": "[9.0.8, )",
             "autoReferenced": true
+          },
+          "PropertyChanged.Fody": {
+            "target": "Package",
+            "version": "[4.1.0, )"
           }
         },
         "imports": [
@@ -9704,6 +9937,12 @@
             "target": "Package",
             "version": "[3.3.0, )"
           },
+          "Fody": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.9.3, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[9.0.5, )"
@@ -9717,6 +9956,10 @@
             "target": "Package",
             "version": "[9.0.8, )",
             "autoReferenced": true
+          },
+          "PropertyChanged.Fody": {
+            "target": "Package",
+            "version": "[4.1.0, )"
           }
         },
         "imports": [

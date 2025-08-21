@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.Views.Navigation_Page_Extra"
+             Title="Navigation_Page_Extra">
+    <VerticalStackLayout VerticalOptions="Center" 
+            HorizontalOptions="Center" Spacing="20">
+        <Label 
+            Text="Welcome to .NET MAUI!"
+             />
+        <Button Text="Go Back to Original Navigation Flow" Clicked="Button_Clicked" />
+    </VerticalStackLayout>
+</ContentPage>

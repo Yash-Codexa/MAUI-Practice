@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.Views.StyleClasses_View"
+             Title="StyleClasses_View">
+
+    <ContentPage.Resources>
+
+        <Style TargetType="Label" Class="lblText">
+            <Setter Property="FontSize" Value="Title"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="HorizontalTextAlignment" Value="Center"/>
+            <Setter Property="TextColor" Value="{AppThemeBinding Light=DarkBlue,Dark=White}"/>
+        </Style>
+
+        <Style TargetType="Button" Class="btnText">
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+        </Style>
+
+        <Style TargetType="Button" Class="btnLight">
+            <Setter Property="BackgroundColor" Value="LightGray"/>
+            <Setter Property="TextColor" Value="Black"/>
+        </Style>
+
+         <Style TargetType="Button" Class="btnDark">
+            <Setter Property="BackgroundColor" Value="Purple"/>
+            <Setter Property="TextColor" Value="White"/>
+        </Style>
+
+    </ContentPage.Resources>
+
+    <VerticalStackLayout VerticalOptions="Center" 
+            HorizontalOptions="Center" Spacing="30"> 
+
+        <Label Text="Heyy!" StyleClass="lblText"/>
+        <Button Text="Click Me!" StyleClass="btnText,btnLight"/>
+        <Button Text="Click Me!" StyleClass="btnText,btnDark"/>
+        <Button Text="Click Me!" StyleClass="btnText"/>
+          <Button Text="Click Me!" />
+    </VerticalStackLayout>
+</ContentPage>

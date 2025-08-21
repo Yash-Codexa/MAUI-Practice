@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.Views.PersonView"
+             Title="PersonView">
+    <StackLayout VerticalOptions="Center" 
+            HorizontalOptions="Center">
+        <Label 
+            Text="{Binding Person.Name}"
+            FontSize="50"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+             />
+        <Slider Value="{Binding Person.Age}" 
+            Minimum="0"
+            Maximum="100"
+            />
+        <Switch IsToggled="{Binding Person.Married}" />
+        <DatePicker Date="{Binding Person.BirthDate}" />
+        <Entry Text="{Binding Perosn.Weight}" />
+        <TimePicker Time="{Binding Person.LunchTime}" />
+    </StackLayout>
+</ContentPage>

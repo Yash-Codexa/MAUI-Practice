@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.Views.Navigation_Page2"
+             Title="Navigation_Page2">
+    <VerticalStackLayout VerticalOptions="Center" 
+            HorizontalOptions="Center" Spacing="20">
+        <Entry Text="{Binding Name}"/>
+        <Button Text="Go to Page 3" Clicked="Button_Clicked"/>
+        <Button Text="Go to Page 1" Clicked="Button_Clicked1"/>
+    </VerticalStackLayout>
+</ContentPage>
