@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[12.1.0, )"
             },
+            "Dangl.Calculator": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "DotNetMeteor.HotReload.Plugin": {
               "target": "Package",
               "version": "[3.3.0, )"
@@ -116,6 +120,10 @@
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[12.1.0, )"
+            },
+            "Dangl.Calculator": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "DotNetMeteor.HotReload.Plugin": {
               "target": "Package",
@@ -174,6 +182,10 @@
               "target": "Package",
               "version": "[12.1.0, )"
             },
+            "Dangl.Calculator": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "DotNetMeteor.HotReload.Plugin": {
               "target": "Package",
               "version": "[3.3.0, )"
@@ -227,7 +239,16 @@
         }
       },
       "runtimes": {
+        "android-arm64": {
+          "#import": []
+        },
+        "android-x64": {
+          "#import": []
+        },
         "iossimulator-arm64": {
+          "#import": []
+        },
+        "maccatalyst-arm64": {
           "#import": []
         }
       }

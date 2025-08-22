@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
 <Style TargetType="Button" x:Key="btnBase"> 
-            <Setter Property="TextColor" Value="{StaticResource txtColor}" />
+            <Setter Property="TextColor" Value="Red" />
             <Setter Property="FontSize" Value="Large" />
             <Setter Property="FontAttributes" Value="Bold" />
             <Setter Property="CornerRadius" Value="10" />
@@ -13,7 +13,7 @@
         <Style 
             x:Key="btnBG"
             TargetType="Button" BasedOn="{StaticResource btnBase}">
-            <Setter Property="BackgroundColor" Value="{StaticResource bgColor}"/>
+            <Setter Property="BackgroundColor" Value="Yellow"/>
         </Style>
 
         <Style 

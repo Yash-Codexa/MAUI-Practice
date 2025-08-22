@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PagesDemo.Views.EmptyList_View"
+             Title="EmptyList_View">
+
+    <ContentPage.Resources>
+        <ContentView x:Key="NoResultsView">
+            <Grid>
+            <VerticalStackLayout VerticalOptions="Center">
+                <Image HeightRequest="150" 
+                    Source="notfound.png"
+                    VerticalOptions="Center"
+                    />
+                <Label Text="No Result!" 
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </VerticalStackLayout>
+        </Grid>
+        </ContentView>
+        
+        <ContentView x:Key="ConnectivityIssue">
+            <Grid>
+            <VerticalStackLayout VerticalOptions="Center">
+                <Image HeightRequest="150" 
+                    Source="no_internet.png"
+                    VerticalOptions="Center"
+                    />
+                <Label Text="No Internet!" 
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </VerticalStackLayout>
+        </Grid>
+        </ContentView>
+    </ContentPage.Resources>
+
+    <Grid RowDefinitions=".2*,.8*">
+
+        <HorizontalStackLayout>
+            <Label Text="Toggle Empty Views!" />
+            <Switch Toggled="Switch_Toggled" />
+        </HorizontalStackLayout>
+
+    <CollectionView Grid.Row="1" x:Name="collectionView" >
+        <CollectionView.ItemsSource>
+            <x:Array Type="{x:Type x:String}">
+               
+            </x:Array>
+        </CollectionView.ItemsSource>
+    
+    <CollectionView.EmptyView>
+        <!-- <Grid>
+            <VerticalStackLayout VerticalOptions="Center">
+                <Image HeightRequest="150" 
+                    Source="no_internet.png"
+                    VerticalOptions="Center"
+                    />
+                <Label Text="No Internet!" 
+                    FontSize="Large"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </VerticalStackLayout>
+        </Grid> -->
+    </CollectionView.EmptyView>
+    </CollectionView>
+
+
+    </Grid>
+
+
+</ContentPage>

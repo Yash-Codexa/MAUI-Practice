@@ -4,7 +4,7 @@
              x:Class="PagesDemo.Views.HangMan_Home"
              Title="HangMan_Home">
     
-    <Grid RowDefinitions=".6*,.4*">
+    <Grid RowDefinitions=".5*,.4*,.1*">
         <VerticalStackLayout>
         <Label 
             FontAttributes="Bold"
@@ -49,7 +49,7 @@
 
 
         </FlexLayout>
-        
+        <Button Grid.Row="2" HeightRequest="20" Text="PersonViewModel" Clicked="Button_Clicked1" />
     </Grid>
 
 </ContentPage>

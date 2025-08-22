@@ -173,5 +173,10 @@ public partial class HangMan_Home : ContentPage, INotifyPropertyChanged
 		EnableLetters();
 	 }
 
+	private void Button_Clicked1(object sender, EventArgs e)
+	{
+		Navigation.PushAsync(new PersonView());
+    }
+
 	
 }

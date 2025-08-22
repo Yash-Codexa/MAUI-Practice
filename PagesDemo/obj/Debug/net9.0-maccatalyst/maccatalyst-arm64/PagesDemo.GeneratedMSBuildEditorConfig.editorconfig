@@ -163,6 +163,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/ButtonStyle.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/ButtonStyle.xaml
 
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Resources/Styles/CalculatorDictionary.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.CalculatorDictionary.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/CalculatorDictionary.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/CalculatorDictionary.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Resources/Styles/CollectionView_Dictionary.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.CollectionView_Dictionary.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/CollectionView_Dictionary.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/CollectionView_Dictionary.xaml
+
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Resources.Styles.Colors.xaml
@@ -229,6 +241,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.ChangeNoti
 build_metadata.AdditionalFiles.TargetPath = Views/ChangeNotifyDemo.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/ChangeNotifyDemo.xaml
 
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/CollectionView_Demo_View.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.CollectionView_Demo_View.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/CollectionView_Demo_View.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/CollectionView_Demo_View.xaml
+
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/CommandsView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.CommandsView.xaml
@@ -247,6 +265,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.DynamicSty
 build_metadata.AdditionalFiles.TargetPath = Views/DynamicStyle_View.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/DynamicStyle_View.xaml
 
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/EmptyList_View.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.EmptyList_View.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/EmptyList_View.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/EmptyList_View.xaml
+
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/HangMan_Home.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.HangMan_Home.xaml
@@ -258,6 +282,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.ImplicitStyle_View.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/ImplicitStyle_View.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/ImplicitStyle_View.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/LayoutPage_CollectionViewDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.LayoutPage_CollectionViewDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/LayoutPage_CollectionViewDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/LayoutPage_CollectionViewDemo.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/Navigation_Page1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -300,6 +330,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.PersonView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/PersonView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/PersonView.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/ProductsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.ProductsView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/ProductsView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/ProductsView.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/StyleClasses_View.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

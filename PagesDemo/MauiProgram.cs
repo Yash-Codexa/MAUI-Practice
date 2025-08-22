@@ -21,6 +21,8 @@ public static class MauiProgram
 				fonts.AddFont("Valestine.ttf", "CustomFont");
 				fonts.AddFont("Bison.ttf", "MainFont");
 				fonts.AddFont("fontello.ttf", "Icons");
+				fonts.AddFont("Sublima-ExtraBold.otf", "SublimaBold");
+				fonts.AddFont("Sublima-ExtraLight.otf", "SublimaLight");
 			}).EnableHotReload();
 
 #if DEBUG
