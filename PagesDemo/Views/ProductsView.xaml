@@ -4,16 +4,17 @@
              x:Class="PagesDemo.Views.ProductsView"
              Title="ProductsView">
 
-    <Grid RowDefinitions=".1*,.9*" >
+    <Grid RowDefinitions=".1*,.1*,.8*" >
 
         <Button Text="Manual Scrolling" Clicked="Button_Clicked" />
+        <Button Text="Add new item" Clicked="Button_Clicked1" Grid.Row="1"/>
 
     <CollectionView 
         x:Name="collectionView"
         IsGrouped="True" 
         ItemsSource="{Binding Products}"
         Scrolled="CollectionView_Scrolled"
-        Grid.Row="1"
+        Grid.Row="2"
         ItemsUpdatingScrollMode="KeepLastItemInView"
         >
         <CollectionView.ItemsLayout>

@@ -4,6 +4,73 @@
         <name>PagesDemo</name>
     </assembly>
     <members>
+        <member name="T:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.Places">
+            <inheritdoc cref="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.places"/>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.CurrentPlace">
+            <inheritdoc cref="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.currentPlace"/>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.IsFlyoutOpen">
+            <inheritdoc cref="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.isFlyoutOpen"/>
+        </member>
+        <member name="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.helpCommand">
+            <summary>The backing field for <see cref="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.HelpCommand"/>.</summary>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.HelpCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.Help"/>.</summary>
+        </member>
+        <member name="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.openFlyoutCommand">
+            <summary>The backing field for <see cref="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.OpenFlyoutCommand"/>.</summary>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.OpenFlyoutCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.OpenFlyout"/>.</summary>
+        </member>
+        <member name="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.showOffersCommand">
+            <summary>The backing field for <see cref="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.ShowOffersCommand"/>.</summary>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.ShowOffersCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.ShowOffers"/>.</summary>
+        </member>
+        <member name="F:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.searchCommand">
+            <summary>The backing field for <see cref="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.SearchCommand"/>.</summary>
+        </member>
+        <member name="P:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.SearchCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:PagesDemo.DevsPark_MVVM.ViewModels.PlacesViewModel.Search"/>.</summary>
+        </member>
+        <member name="T:PagesDemo.Models.FakePerson">
+            <inheritdoc/>
+        </member>
+        <member name="P:PagesDemo.Models.FakePerson.FirstName">
+            <inheritdoc cref="F:PagesDemo.Models.FakePerson.firstName"/>
+        </member>
+        <member name="P:PagesDemo.Models.FakePerson.LastName">
+            <inheritdoc cref="F:PagesDemo.Models.FakePerson.m_lastName"/>
+        </member>
+        <member name="M:PagesDemo.Models.FakePerson.OnFirstNameChanged(System.String)">
+            <summary>Executes the logic for when <see cref="P:PagesDemo.Models.FakePerson.FirstName"/> just changed.</summary>
+            <param name="value">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:PagesDemo.Models.FakePerson.FirstName"/> is changed.</remarks>
+        </member>
+        <member name="T:PagesDemo.ViewModels.DemoViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:PagesDemo.ViewModels.DemoViewModel.Password">
+            <inheritdoc cref="F:PagesDemo.ViewModels.DemoViewModel.password"/>
+        </member>
+        <member name="F:PagesDemo.ViewModels.DemoViewModel.generateDataCommand">
+            <summary>The backing field for <see cref="P:PagesDemo.ViewModels.DemoViewModel.GenerateDataCommand"/>.</summary>
+        </member>
+        <member name="P:PagesDemo.ViewModels.DemoViewModel.GenerateDataCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PagesDemo.ViewModels.DemoViewModel.GenerateData(System.String)"/>.</summary>
+        </member>
         <member name="T:PagesDemo.Resource">
             <summary>
             Android Resource Designer class.
@@ -129,6 +196,60 @@
             <param name = "easing">The easing function to be used in the animation</param>
             <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
             <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Places">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Places" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentPlace">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentPlace" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsFlyoutOpen">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsFlyoutOpen" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FirstName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FirstName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FullName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FullName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.LastName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "LastName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Password" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Places">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Places" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentPlace">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentPlace" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsFlyoutOpen">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsFlyoutOpen" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FirstName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FirstName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FullName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FullName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.LastName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "LastName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Password">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Password" generated properties.</summary>
         </member>
     </members>
 </doc>

@@ -4,6 +4,11 @@ build_property.EnableAotAnalyzer =
 build_property.EnableSingleFileAnalyzer = 
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = false
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = 
+build_property.CsWinRTAotWarningLevel = 
 build_property.TargetFramework = net9.0-ios
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -78,6 +83,102 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DataBindingDesign.xaml
 build_metadata.AdditionalFiles.TargetPath = DataBindingDesign.xaml
 build_metadata.AdditionalFiles.RelativePath = DataBindingDesign.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/DesertMirage/NightAdventures/NightDuneBuggy.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.DesertMirage.NightAdventures.NightDuneBuggy.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/DesertMirage/NightAdventures/NightDuneBuggy.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/DesertMirage/NightAdventures/NightDuneBuggy.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/DesertMirage/NightAdventures/StarGazing.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.DesertMirage.NightAdventures.StarGazing.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/DesertMirage/NightAdventures/StarGazing.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/DesertMirage/NightAdventures/StarGazing.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/DesertMirage/OasisFun/CamelRides.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.DesertMirage.OasisFun.CamelRides.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/DesertMirage/OasisFun/CamelRides.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/DesertMirage/OasisFun/CamelRides.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/DesertMirage/OasisFun/OasisPools.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.DesertMirage.OasisFun.OasisPools.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/DesertMirage/OasisFun/OasisPools.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/DesertMirage/OasisFun/OasisPools.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/DevsPark_AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.DevsPark_AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/DevsPark_AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/DevsPark_AppShell.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/Frozen/IcyTreats/FrozanDrinksBar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.Frozen.IcyTreats.FrozanDrinksBar.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/Frozen/IcyTreats/FrozanDrinksBar.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/Frozen/IcyTreats/FrozanDrinksBar.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/Frozen/IcyTreats/IceCreamWorld.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.Frozen.IcyTreats.IceCreamWorld.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/Frozen/IcyTreats/IceCreamWorld.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/Frozen/IcyTreats/IceCreamWorld.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/Frozen/SnowActivities/IceSculptures.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.Frozen.SnowActivities.IceSculptures.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/Frozen/SnowActivities/IceSculptures.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/Frozen/SnowActivities/IceSculptures.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/Frozen/SnowActivities/SnowBoarding.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.Frozen.SnowActivities.SnowBoarding.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/Frozen/SnowActivities/SnowBoarding.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/Frozen/SnowActivities/SnowBoarding.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/OffersView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.OffersView.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/OffersView.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/OffersView.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/SearchView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.SearchView.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/SearchView.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/SearchView.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/TemplateView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.TemplateView.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/TemplateView.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/TemplateView.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/TropicalParadise/BeachAttractions/SurfLessons.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.TropicalParadise.BeachAttractions.SurfLessons.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/TropicalParadise/BeachAttractions/SurfLessons.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/TropicalParadise/BeachAttractions/SurfLessons.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/TropicalParadise/BeachAttractions/WavePool.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.TropicalParadise.BeachAttractions.WavePool.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/TropicalParadise/BeachAttractions/WavePool.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/TropicalParadise/BeachAttractions/WavePool.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/TropicalParadise/JungleAdventures/AnimalShows.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.TropicalParadise.JungleAdventures.AnimalShows.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/TropicalParadise/JungleAdventures/AnimalShows.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/TropicalParadise/JungleAdventures/AnimalShows.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DevsPark_MVVM/Pages/TropicalParadise/JungleAdventures/ZipLines.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.DevsPark_MVVM.Pages.TropicalParadise.JungleAdventures.ZipLines.xaml
+build_metadata.AdditionalFiles.TargetPath = DevsPark_MVVM/Pages/TropicalParadise/JungleAdventures/ZipLines.xaml
+build_metadata.AdditionalFiles.RelativePath = DevsPark_MVVM/Pages/TropicalParadise/JungleAdventures/ZipLines.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/DisplayControllerDemo.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -258,6 +359,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.ConvertorsView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views/ConvertorsView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views/ConvertorsView.xaml
+
+[/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/DemoView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PagesDemo.Views.DemoView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/DemoView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/DemoView.xaml
 
 [/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/Views/DynamicStyle_View.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

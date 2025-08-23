@@ -28,7 +28,27 @@ public partial class ProductsView : ContentPage
 	{
 		var vm = BindingContext as ProductsViewModel;
 
-		vm.Products.Add(new Models.ProductsGroup("New Group", new List<Models.Product>
+		// vm?.Products.Add(new Models.ProductsGroup("New Group", new List<Models.Product>
+		// {
+		// 	new Models.Product{
+		// 		Id=100,
+		// 		Name="BitCoin",
+		// 		Price=00
+		// 	}
+		// }));
+
+		var product = vm.Products.SelectMany(p => p).FirstOrDefault(x => x.Id == 10);
+
+
+
+		collectionView.ScrollTo(product);
+	}
+
+	private void Button_Clicked1(object sender, EventArgs e)
+	{
+				var vm = BindingContext as ProductsViewModel;
+
+		vm?.Products.Add(new Models.ProductsGroup("New Group", new List<Models.Product>
 		{
 			new Models.Product{
 				Id=100,
@@ -38,9 +58,5 @@ public partial class ProductsView : ContentPage
 		}));
 
 		var product = vm.Products.SelectMany(p => p).FirstOrDefault(x => x.Id == 10);
-
-
-
-		// collectionView.ScrollTo(product);
-	}
+    }
 }

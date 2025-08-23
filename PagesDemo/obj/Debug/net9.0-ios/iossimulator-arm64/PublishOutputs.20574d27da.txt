@@ -1,4 +1,3 @@
-/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/PropertyChanged.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/ar/Microsoft.Maui.Controls.resources.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/ca/Microsoft.Maui.Controls.resources.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/cs/Microsoft.Maui.Controls.resources.dll
@@ -35,8 +34,10 @@
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/runtimeconfig.bin
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/Antlr4.Runtime.Standard.dll
+/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/Bogus.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/CommunityToolkit.Maui.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/CommunityToolkit.Maui.Core.dll
+/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/CommunityToolkit.Mvvm.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/Dangl.Calculator.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/DotNet.Meteor.HotReload.Plugin.dll
 /Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/bin/Debug/net9.0-ios/iossimulator-arm64/publish/../PagesDemo.app/Microsoft.Extensions.Configuration.dll

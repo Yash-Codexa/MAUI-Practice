@@ -21,6 +21,13 @@
     
 <!-- Calculator Colors End-->
 
+<!-- DevsPark Colors Start-->
+
+    <Color x:Key="Footer">#E9ECEF</Color>
+    <Color x:Key="BGColor">#F6F4F5</Color>
+    <Color x:Key="IconColor">#000000</Color>
+
+<!-- DevsPark Colors End-->
 
     <Color x:Key="Primary">#512BD4</Color>
     <Color x:Key="PrimaryDark">#ac99ea</Color>

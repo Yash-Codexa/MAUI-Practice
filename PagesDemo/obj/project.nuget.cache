@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "k2eXnH8DtgQ=",
+  "dgSpecHash": "K/NAODNmhbQ=",
   "success": true,
   "projectFilePath": "/Users/swetadarshanaadatiya/Desktop/maui_practise/PagesDemo/PagesDemo/PagesDemo.csproj",
   "expectedPackageFiles": [
     "/Users/swetadarshanaadatiya/.nuget/packages/antlr4.runtime.standard/4.13.1/antlr4.runtime.standard.4.13.1.nupkg.sha512",
+    "/Users/swetadarshanaadatiya/.nuget/packages/bogus/35.6.3/bogus.35.6.3.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/communitytoolkit.maui/12.1.0/communitytoolkit.maui.12.1.0.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/communitytoolkit.maui.core/12.1.0/communitytoolkit.maui.core.12.1.0.nupkg.sha512",
+    "/Users/swetadarshanaadatiya/.nuget/packages/communitytoolkit.mvvm/8.4.0/communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/dangl.calculator/2.2.0/dangl.calculator.2.2.0.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/dotnetmeteor.hotreload.plugin/3.3.0/dotnetmeteor.hotreload.plugin.3.3.0.nupkg.sha512",
     "/Users/swetadarshanaadatiya/.nuget/packages/fody/6.9.3/fody.6.9.3.nupkg.sha512",

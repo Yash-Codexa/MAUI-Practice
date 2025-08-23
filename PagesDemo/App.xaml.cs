@@ -1,4 +1,5 @@
-﻿using PagesDemo.Views;
+﻿using PagesDemo.DevsPark_MVVM.Pages;
+using PagesDemo.Views;
 
 namespace PagesDemo;
 
@@ -11,6 +12,6 @@ public partial class App : Application
 
 	protected override Window CreateWindow(IActivationState? activationState)
 	{
-		return new Window(new NavigationPage(new ProductsView()));
+		return new Window(new NavigationPage(new DevsPark_AppShell()));
 	}
 }

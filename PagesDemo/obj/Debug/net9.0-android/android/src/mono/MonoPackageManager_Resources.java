@@ -4,8 +4,10 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "PagesDemo.dll" comes first in this list. */
 		"PagesDemo.dll",
 		"Antlr4.Runtime.Standard.dll",
+		"Bogus.dll",
 		"CommunityToolkit.Maui.dll",
 		"CommunityToolkit.Maui.Core.dll",
+		"CommunityToolkit.Mvvm.dll",
 		"Dangl.Calculator.dll",
 		"DotNet.Meteor.HotReload.Plugin.dll",
 		"GoogleGson.dll",
